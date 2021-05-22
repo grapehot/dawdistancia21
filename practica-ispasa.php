@@ -14,7 +14,7 @@
 function bloquedecodigo1($param1)
 {
 
-  echo "Hola, caracola";
+  echo "Hola, primera modificacion para GITHUb";
   $param2 = "Hola ".($param1);
   return $param2;
 }
